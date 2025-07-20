@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Tổng đầu vào",
+    "count": 442236,
+    "percentage": 59.3,
+    "extra": 35000,
+    "isLoss": false,
+    "color": "primary"
+  },
+  {
+    "title": "Tổng đầu ra",
+    "count": 78250,
+    "percentage": 70.5,
+    "extra": 8900,
+    "isLoss": false,
+    "color": "primary"
+  },
+  {
+    "title": "Tổng số giao dịch",
+    "count": 18800,
+    "percentage": 27.4,
+    "extra": 1943,
+    "isLoss": true,
+    "color": "warning"
+  },
+  {
+    "title": "Lợi nhuận ròng",
+    "count": 35078,
+    "percentage": 27.4,
+    "extra": 20395,
+    "isLoss": true,
+    "color": "warning"
+  }
+]

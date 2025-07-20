@@ -1,0 +1,16 @@
+[
+  { "weekday": "Thứ hai", "calories": 2100 },
+  { "weekday": "Thứ ba", "calories": 1800 },
+  { "weekday": "Thứ tư", "calories": 1950 },
+  { "weekday": "Thứ năm", "calories": 2300 },
+  { "weekday": "Thứ sáu", "calories": 2000 },
+  { "weekday": "Thứ bảy", "calories": 1900 },
+  { "weekday": "Chủ nhật", "calories": 2100 },
+  { "weekday": "Thứ hai", "calories": 2200 },
+  { "weekday": "Thứ ba", "calories": 2050 },
+  { "weekday": "Thứ tư", "calories": 2000 },
+  { "weekday": "Thứ năm", "calories": 2100 },
+  { "weekday": "Thứ sáu", "calories": 2200 },
+  { "weekday": "Thứ bảy", "calories": 2300 },
+  { "weekday": "Chủ nhật", "calories": 2400 }
+]

@@ -1,0 +1,14 @@
+[
+  { "name": "Tháng 1", "totalUsers": 47, "under18": 4, "age18_24": 15, "age25_34": 14, "age35_44": 9, "over45": 5 },
+  { "name": "Tháng 2", "totalUsers": 69, "under18": 6, "age18_24": 20, "age25_34": 22, "age35_44": 13, "over45": 8 },
+  { "name": "Tháng 3", "totalUsers": 66, "under18": 5, "age18_24": 18, "age25_34": 20, "age35_44": 14, "over45": 9 },
+  { "name": "Tháng 4", "totalUsers": 89, "under18": 7, "age18_24": 26, "age25_34": 25, "age35_44": 20, "over45": 11 },
+  { "name": "Tháng 5", "totalUsers": 104, "under18": 9, "age18_24": 30, "age25_34": 28, "age35_44": 23, "over45": 14 },
+  { "name": "Tháng 6", "totalUsers": 95, "under18": 6, "age18_24": 27, "age25_34": 29, "age35_44": 21, "over45": 12 },
+  { "name": "Tháng 7", "totalUsers": 120, "under18": 10, "age18_24": 33, "age25_34": 38, "age35_44": 25, "over45": 14 },
+  { "name": "Tháng 8", "totalUsers": 115, "under18": 9, "age18_24": 31, "age25_34": 35, "age35_44": 26, "over45": 14 },
+  { "name": "Tháng 9", "totalUsers": 138, "under18": 12, "age18_24": 35, "age25_34": 42, "age35_44": 30, "over45": 19 },
+  { "name": "Tháng 10", "totalUsers": 132, "under18": 11, "age18_24": 34, "age25_34": 40, "age35_44": 29, "over45": 18 },
+  { "name": "Tháng 11", "totalUsers": 144, "under18": 12, "age18_24": 39, "age25_34": 45, "age35_44": 28, "over45": 20 },
+  { "name": "Tháng 12", "totalUsers": 149, "under18": 10, "age18_24": 42, "age25_34": 48, "age35_44": 29, "over45": 20 }
+]
