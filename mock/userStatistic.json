@@ -1,0 +1,14 @@
+[
+  { "name": "Tháng 1", "activeUsers": 21, "totalUsers": 47, "male": 25, "female": 22 },
+  { "name": "Tháng 2", "activeUsers": 33, "totalUsers": 69, "male": 41, "female": 28 },
+  { "name": "Tháng 3", "activeUsers": 28, "totalUsers": 66, "male": 30, "female": 36 },
+  { "name": "Tháng 4", "activeUsers": 37, "totalUsers": 89, "male": 52, "female": 37 },
+  { "name": "Tháng 5", "activeUsers": 43, "totalUsers": 104, "male": 55, "female": 49 },
+  { "name": "Tháng 6", "activeUsers": 39, "totalUsers": 95, "male": 50, "female": 45 },
+  { "name": "Tháng 7", "activeUsers": 51, "totalUsers": 120, "male": 67, "female": 53 },
+  { "name": "Tháng 8", "activeUsers": 49, "totalUsers": 115, "male": 59, "female": 56 },
+  { "name": "Tháng 9", "activeUsers": 57, "totalUsers": 138, "male": 73, "female": 65 },
+  { "name": "Tháng 10", "activeUsers": 53, "totalUsers": 132, "male": 71, "female": 61 },
+  { "name": "Tháng 11", "activeUsers": 62, "totalUsers": 144, "male": 80, "female": 64 },
+  { "name": "Tháng 12", "activeUsers": 65, "totalUsers": 149, "male": 78, "female": 71 }
+]
